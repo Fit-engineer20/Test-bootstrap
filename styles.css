@@ -1,0 +1,21 @@
+
+.my_caro{
+    height:600px;
+}
+
+.car-img{
+    height:100%;
+    width:100%;
+    /* object-fit:cover; */
+}
+
+.foot-link:hover{
+    color:beige !important;
+}
+
+@media (min-width:768px)
+{
+    .news-input{
+        width:50% !important;
+    }
+}
